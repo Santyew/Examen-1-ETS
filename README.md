@@ -73,12 +73,12 @@ v Actualiza los proveedores.
 |  Actor | Cliente  |
 |---|---|
 | Descripción  | _Usuario del sistema VIDEOMAX_  |
-| Características  | __ |
+| Características  | _El usuario proporciona sus datos a cambio de alquilar películas_ |
 | Relaciones | _Registrar datos personales, alquilar películas, reservar películas_  |
 | Referencias | _Proporciona datos personales,alquila película, reserva película, devuelve película, seleccionar película, registra película_ |
 |  Notas |  __ |
 | Autor  | _Santiago Ruiz Martín_ |
-|Fecha | _18/11/2024_ |
+|Fecha | _19/11/2024_ |
 
 |  Atributo |||
 |---|---|---|
@@ -88,12 +88,12 @@ v Actualiza los proveedores.
 |  Actor | Proveedor |
 |---|---|
 | Descripción  | _Proveedor de película de VIDEOMAX_  |
-| Características  | __ |
+| Características  | _El proveedor entrega películas para VIDEOMAX_ |
 | Relaciones | _Abastecer películas_  |
 | Referencias | _Abastece películas según existencias_ |
 |  Notas |  __ |
 | Autor  | _Santiago Ruiz Martín_ |
-|Fecha | _18/11/2024_ |
+|Fecha | _19/11/2024_ |
 
 |  Atributo |||
 |---|---|---|
@@ -102,13 +102,13 @@ v Actualiza los proveedores.
 
 |  Actor | Administrador Videomax|
 |---|---|
-| Descripción  | __  |
-| Características  | __ |
+| Descripción  | _Administrador de Videomax_  |
+| Características  | _Usuario que se encarga en que queden registrados los datos personales de sus clientes y los datos de las películas_ |
 | Relaciones | _Hace registros de personas, hace registros de alquileres, registro de reserva, registro de películas y actuliza los proveedores_  |
 | Referencias | _Registra los clientes, registra alquiler,registra reserva, registra película, actualiza proveedor_ |
 |  Notas |  __ |
 | Autor  | _Santiago Ruiz Martín_ |
-|Fecha | _18/11/2024_ |
+|Fecha | _19/11/2024_ |
 
 |  Atributo |||
 |---|---|---|
